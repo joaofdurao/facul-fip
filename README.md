@@ -3,6 +3,16 @@
 Este projeto é um conversor de números entre as bases decimal, binária, octal e hexadecimal.
 Ele também guarda um histórico de cada conversão em um arquivo de texto, para que você possa ver o que já foi feito.
 
+## Grupo
+- Caique Assunção
+- Henrique Veloso
+- Gilberto Dias
+- João Felipe Durão
+- Luís Felix
+- Pedro Barreiras
+- Renato Câmara
+- Tarcisio Wanderley
+
 ## O que este programa faz
 
 O programa mostra um menu com opções para:
